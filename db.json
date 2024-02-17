@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "c2c4",
+      "fullname": "mguel",
+      "email": "migue055@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5b0c",
+      "fullname": "angel",
+      "email": "migue@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "a5f4",
+      "fullname": "rodriguez",
+      "email": "mejia055@gmail.com",
+      "password": "123"
+    }
+  ]
+}
