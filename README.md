@@ -25,3 +25,42 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# miguel angel rodriguez mejia
+# Grupo: GDS0553
+# Descargar e Instalar Login jnto con sus Dependencias
+
+# Instalacion
+- Clonar el repositorio
+- 
+  git clone URL
+  
+- # Instalar los modulos
+- Cambiarse al directorio
+- cd [Nombre_proyecto]
+- Mediante nom instalar los modulos
+ 
+ npm install
+
+
+- npm install json-server
+
+
+npm install primeng 
+
+
+# levantar el servidor y el  Json-Server
+Levantar el Json-Serve
+
+json-server --watch db.json
+
+
+ejecutar el servidor
+
+ng server --open
+
+
+
+
+# Ingresar a la URL
+
+<a href="https://localhost:4200/" title="Optional title">Ingresar a la pagina</a>
